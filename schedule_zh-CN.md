@@ -111,7 +111,7 @@ io-file-source | SylviaBABY | | Translated
 io-file | Bu Xing | | In Progress
 io-flume-sink | SylviaBABY | | Translated
 io-flume-source | SylviaBABY | | Translated
-io-hbase-sink | | | To Do
+io-hbase-sink | shannonAJ | | To Do
 io-hbase | Bu Xing | | Deprecated
 io-hdfs | Bu Xing | | Deprecated
 io-hdfs2-sink | SylviaBABY | | Translated
